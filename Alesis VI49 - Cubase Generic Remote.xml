@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<remotedescription version="1.1">
+    <ctrltable name="Standard MIDI">
+        <ctrl>
+            <name>Knob 1</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>20</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 2</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>21</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 3</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>22</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 4</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>23</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 5</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>24</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 6</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>25</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 7</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>26</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 8</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>27</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 9</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>28</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 10</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>29</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 11</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>30</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Knob 12</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>31</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Play</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>119</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Stop</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>118</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Fast Forward</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>117</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Rewind</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>116</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Record</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>114</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Loop</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>115</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 1</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>48</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 2</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>49</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 3</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>50</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 4</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>51</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 5</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>52</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 6</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>53</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 7</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>54</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 8</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>55</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 9</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>56</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 10</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>57</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 11</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>58</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 12</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>59</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 13</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>64</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 14</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>65</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 15</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>66</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 16</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>67</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 17</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>68</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 18</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>69</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 19</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>70</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 20</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>71</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 21</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>72</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 22</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>73</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 23</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>74</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 24</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>75</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 25</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>80</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 26</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>81</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 27</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>82</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 28</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>83</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 29</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>84</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 30</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>85</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 31</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>86</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 32</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>87</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 33</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>88</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 34</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>89</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 35</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>90</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Switch 36</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>91</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 1</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>48</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 2</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>49</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 3</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>50</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 4</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>51</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 5</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>44</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 6</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>45</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 7</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>46</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 8</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>47</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 9</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>40</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 10</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>41</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 11</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>42</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 12</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>43</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 13</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>36</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 14</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>37</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 15</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>38</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+        <ctrl>
+            <name>Pad 16</name>
+            <stat>176</stat>
+            <chan>0</chan>
+            <addr>39</addr>
+            <max>127</max>
+            <flags>1</flags>
+        </ctrl>
+    </ctrltable>
+    <bank name="VST 1-16">
+        <entry ctrl="Knob 1">
+            <value>
+                <device>VST Mixer</device>
+                <chan>0</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Knob 2">
+            <value>
+                <device>VST Mixer</device>
+                <chan>1</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Knob 3">
+            <value>
+                <device>VST Mixer</device>
+                <chan>2</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Knob 4">
+            <value>
+                <device>VST Mixer</device>
+                <chan>3</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Knob 5">
+            <value>
+                <device>VST Mixer</device>
+                <chan>4</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Knob 6">
+            <value>
+                <device>VST Mixer</device>
+                <chan>5</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Knob 7">
+            <value>
+                <device>VST Mixer</device>
+                <chan>22</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Knob 8">
+            <value>
+                <device>VST Mixer</device>
+                <chan>23</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Knob 9">
+            <value>
+                <device>VST Mixer</device>
+                <chan>8</chan>
+                <name>volume</name>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Play">
+            <value>
+                <device>Transport</device>
+                <chan>-1</chan>
+                <tag>4015</tag>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Stop">
+            <value>
+                <device>Transport</device>
+                <chan>-1</chan>
+                <tag>4016</tag>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Fast Forward">
+            <value>
+                <device>Transport</device>
+                <chan>-1</chan>
+                <tag>4113</tag>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Rewind">
+            <value>
+                <device>Transport</device>
+                <chan>-1</chan>
+                <tag>4112</tag>
+                <flags>0</flags>
+            </value>
+        </entry>
+        <entry ctrl="Record">
+            <value>
+                <device>Transport</device>
+                <chan>-1</chan>
+                <tag>4019</tag>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Loop">
+            <value>
+                <device>Transport</device>
+                <chan>-1</chan>
+                <tag>4022</tag>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 1">
+            <value>
+                <device>VST Mixer</device>
+                <chan>0</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 2">
+            <value>
+                <device>VST Mixer</device>
+                <chan>1</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 3">
+            <value>
+                <device>VST Mixer</device>
+                <chan>2</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 4">
+            <value>
+                <device>VST Mixer</device>
+                <chan>3</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 5">
+            <value>
+                <device>VST Mixer</device>
+                <chan>4</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 6">
+            <value>
+                <device>VST Mixer</device>
+                <chan>5</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 7">
+            <value>
+                <device>VST Mixer</device>
+                <chan>22</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 8">
+            <value>
+                <device>VST Mixer</device>
+                <chan>23</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+        <entry ctrl="Switch 9">
+            <value>
+                <device>VST Mixer</device>
+                <chan>8</chan>
+                <name>mute</name>
+                <flags>257</flags>
+            </value>
+        </entry>
+    </bank>
+</remotedescription>
